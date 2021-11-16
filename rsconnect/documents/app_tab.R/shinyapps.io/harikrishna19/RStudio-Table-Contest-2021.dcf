@@ -1,0 +1,14 @@
+name: RStudio-Table-Contest-2021
+title: RStudio-Table-Contest-2021
+username:
+account: harikrishna19
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5118222
+bundleId: 5248519
+url: https://harikrishna19.shinyapps.io/RStudio-Table-Contest-2021/
+when: 1636829325.32055
+lastSyncTime: 1636829325.32055
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|README.md
